@@ -1,0 +1,1 @@
+#storm计算结果保存到HBase中
